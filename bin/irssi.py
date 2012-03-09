@@ -8,9 +8,7 @@ abbr = load(sys.argv[1])
 
 print "completions = {"
 
-abbrs = abbr.items()
-abbrs.sort(key=lambda kv: '%s%s' % (len(kv[0]), kv[0]))
-for k, v in abbrs:
+for k, v in sorted(abbr.items(), key=lambda (k, v): (len(k), k)):
     print """  %s  = { value = "%s"; auto = "yes"; };""" % (k, v)
 
 print "};";
