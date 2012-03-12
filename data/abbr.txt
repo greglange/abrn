@@ -153,8 +153,8 @@ awr	aware
 aw	away
 bb	baby
 bk	back
-bkg	backing
 bkgd	background
+bkg	backing
 bks	backs
 xxx	bad
 xxx	balance
