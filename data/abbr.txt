@@ -1398,8 +1398,9 @@ neg	negative
 negs	negatives
 xxx	neighborhood
 nei	neither
-nev	never
-ntl	nevertheless
+nv	never
+nvl	nevertheless
+nvm	nevermind
 nu	new
 nus	news
 nup	newspaper
