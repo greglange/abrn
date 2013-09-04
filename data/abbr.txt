@@ -69,6 +69,7 @@ alh	although
 alo	altogether
 alz	always
 amg	among
+amph amphetamines
 amt	amount
 amtd	amounted
 amtg	amounting
