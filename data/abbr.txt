@@ -2263,6 +2263,7 @@ xxx	typical
 xxx	ultimate
 xxx	uncle
 und	under
+unlikly unlikely
 uns	understand
 unsg	understanding
 unss	understands
