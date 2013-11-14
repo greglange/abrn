@@ -747,7 +747,7 @@ fcg	facing
 ft	fact
 xxx	factor
 xxx	factors
-xxx	facts
+fts	facts
 xxx	faculty
 xxx	failed
 xxx	failure
@@ -2188,6 +2188,7 @@ tg	thing
 tgs	things
 thk	think
 thkg	thinking
+thkr	thinker
 thks	thinks
 xxx	third
 xxx	thirty
