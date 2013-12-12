@@ -6,6 +6,11 @@ iv	I've
 aay	ability
 aa	able
 ab	about
+abr	abbreviate
+abrs	abbreviates
+abrn	abbreviation
+abrx	abbreviations
+abrg	abbreviating
 abv	above
 acm	academic
 acp	accept
@@ -1560,6 +1565,7 @@ phs	phase
 xxx	philosophy
 xxx	physical
 pk	pick
+pks	picks
 pkd	picked
 pc	picture
 pcs	pictures
