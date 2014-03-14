@@ -16,6 +16,6 @@ for f in files:
     fd = open(f[0], 'w')
     for k, v in abbr.items():
         if f[1](k):
-            fd.write('%s, %s\n' % (k, v))
-            fd.write('%s, %s\n' % (v, k))
+            fd.write('%s\t%s\n' % (k, v))
+            fd.write('%s\t%s\n' % (v, k))
     fd.close()
