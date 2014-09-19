@@ -1694,8 +1694,9 @@ xxx	procedure
 xxx	procedures
 xxx	process
 xxx	processes
-xxx	produce
-xxx	produced
+prdc	produce
+prdcd	produced
+prdcg	producing
 prd	product
 prdn	production
 prdx	productions
