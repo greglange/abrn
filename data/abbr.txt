@@ -2379,7 +2379,7 @@ xxx	weather
 xxx	week
 xxx	weeks
 wgt	weight
-wl	well
+xxx	well
 xxx	went
 wr	were
 wrt	weren't
@@ -2405,8 +2405,10 @@ wy	why
 xxx	wide
 wf	wife
 xxx	wild
-xxx	will
-xxx	willing
+wl	will
+wls	wills
+wld	willed
+wlg	willing
 xxx	wind
 xxx	window
 xxx	wine
