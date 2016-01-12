@@ -1821,7 +1821,7 @@ xxx	relations
 xxx	relationship
 re	relative
 rey	relatively
-res	relatives
+xxx	relatives
 rlf	relief
 xxx	religion
 xxx	religious
