@@ -1844,10 +1844,11 @@ rpt	report
 rptd	reported
 rpts	reports
 xxx	represented
-xxx	require
-xxx	required
-xxx	requirements
-xxx	requires
+rq	require
+rqd	required
+rqt	requirement
+rqts	requirements
+rqs	requires
 xxx	research
 xxx	resolution
 xxx	resources
@@ -2392,6 +2393,7 @@ xxx	wheel
 wn	when
 wnv	whenever
 whr	where
+whrv	wherever
 whhr	whether
 whh	which
 whi	while
