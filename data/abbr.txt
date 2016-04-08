@@ -1213,9 +1213,9 @@ xxx	leaders
 xxx	leadership
 xxx	leading
 xxx	league
-xxx	learn
-xxx	learned
-xxx	learning
+lrn	learn
+lrnd	learned
+lrng	learning
 lea	least
 lve	leave
 lves	leaves
