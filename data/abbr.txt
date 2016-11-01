@@ -247,6 +247,7 @@ btr	better
 btn	between
 byd	beyond
 bi	big
+bir	bigger
 bl	bill
 bln	billion
 xxx	birds
@@ -1638,10 +1639,11 @@ xxx	poet
 xxx	poetry
 pnt	point
 pntd	pointed
-pntr	pointer
-pntz	pointers
 pntg	pointing
+pntl	pointless
+pntr	pointer
 pnts	points
+pntz	pointers
 xxx	police
 xxx	policies
 xxx	policy
@@ -2323,7 +2325,7 @@ uts	units
 uty	unity
 unv	universe
 unvy	university
-uls	unless
+unl	unless
 utl	until
 xxx	unusual
 xxx	up
