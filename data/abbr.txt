@@ -1448,9 +1448,9 @@ nei	neither
 nv	never
 nvl	nevertheless
 nvm	nevermind
-nw	new
-nws	news
-nwp	newspaper
+nu	new
+nus	news
+nup	newspaper
 nx	next
 nc	nice
 ncy	nicely
@@ -1473,7 +1473,7 @@ ng	nothing
 xxx	notice
 xxx	novel
 xxx	november
-xxx	now
+nw	now
 xxx	nuclear
 num	number
 numd	numbered
