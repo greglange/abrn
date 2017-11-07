@@ -718,7 +718,7 @@ evd	evened
 evg	evening
 evt	event
 evts	events
-ey	ever
+er	ever
 ey	every
 eyb	everybody
 eyd	everyday
