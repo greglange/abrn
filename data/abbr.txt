@@ -2480,6 +2480,8 @@ ul	you'll
 ur	you're
 uv	you've
 yg	young
+ygr	younger
+ygt	youngest
 y	your
 ys	yours
 ysf	yourself
