@@ -42,7 +42,8 @@ adrd	addressed
 adrs	addresses
 adrg	addressing
 adq	adequate
-xxx	administration
+adm	administrate
+admn	administration
 adv	advance
 advs	advances
 adg	advantage
@@ -105,8 +106,8 @@ ayg	anything
 ayt	anytime
 ayy	anyway
 ayr	anywhere
-xxx	apart
-xxx	apartment
+ap	apart
+apm	apartment
 xxx	apparent
 xxx	apparently
 xxx	appeal
@@ -674,7 +675,7 @@ xxx	election
 xxx	electric
 xxx	electronic
 xxx	elements
-xxx	else
+el	else
 xxx	emotional
 xxx	emphasis
 xxx	employees
