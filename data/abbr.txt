@@ -276,6 +276,9 @@ xxx	box
 xxx	boy
 xxx	boys
 brk	break
+brks	breaks
+brkg	breaking
+brkn	broken
 xxx	bridge
 brf	brief
 xxx	bright
