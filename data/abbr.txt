@@ -841,8 +841,10 @@ xxx	fifty
 xxx	fig
 xxx	fight
 xxx	fighting
-xxx	figure
-xxx	figures
+fgr	figure
+fgrs	figures
+fgrd	figured
+fgrg	figuring
 xxx	file
 xxx	filled
 xxx	film
