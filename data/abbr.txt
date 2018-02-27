@@ -1264,7 +1264,10 @@ lky	likely
 lks	likes
 lw	likewise
 lkg	liking
-xxx	limited
+lmt	limit
+lmtd	limited
+lmtg	limiting
+lmts	limits
 ln	line
 lns	lines
 xxx	lips
