@@ -2,7 +2,7 @@ def load(filename):
     abbr = {}
     for line in [x.rstrip() for x in open(filename, 'r')]:
         a = line.split("\t")
-        if a[0] == 'xxx':
+        if a[0] == '_':
             continue
 
         if abbr.has_key(a[0]):

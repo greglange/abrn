@@ -19,7 +19,7 @@ for line in content.readlines():
         word = match.group(1).lower()
 
         if not abs.has_key(word):
-            abs[word] = 'xxx'
+            abs[word] = '_'
 
 for k, v in sorted(abs.iteritems()):
     print '%s\t%s' % (v, k)
