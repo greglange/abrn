@@ -42,7 +42,8 @@ adrd	addressed
 adrs	addresses
 adrg	addressing
 adq	adequate
-_	administration
+adm	administrate
+admn	administration
 adv	advance
 advs	advances
 adg	advantage
@@ -105,8 +106,8 @@ ayg	anything
 ayt	anytime
 ayy	anyway
 ayr	anywhere
-_	apart
-_	apartment
+ap	apart
+apm	apartment
 _	apparent
 _	apparently
 _	appeal
@@ -275,6 +276,9 @@ _	box
 _	boy
 _	boys
 brk	break
+brks	breaks
+brkg	breaking
+brkn	broken
 _	bridge
 brf	brief
 _	bright
@@ -674,7 +678,7 @@ _	election
 _	electric
 _	electronic
 _	elements
-_	else
+el	else
 _	emotional
 _	emphasis
 _	employees
@@ -837,8 +841,10 @@ _	fifty
 _	fig
 _	fight
 _	fighting
-_	figure
-_	figures
+fgr	figure
+fgrs	figures
+fgrd	figured
+fgrg	figuring
 _	file
 _	filled
 _	film
@@ -1258,7 +1264,10 @@ lky	likely
 lks	likes
 lw	likewise
 lkg	liking
-_	limited
+lmt	limit
+lmtd	limited
+lmtg	limiting
+lmts	limits
 ln	line
 lns	lines
 _	lips
@@ -2480,6 +2489,8 @@ ul	you'll
 ur	you're
 uv	you've
 yg	young
+ygr	younger
+ygt	youngest
 y	your
 ys	yours
 ysf	yourself
