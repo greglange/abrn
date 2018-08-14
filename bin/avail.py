@@ -4,7 +4,7 @@ for line in open('abbr.txt'):
 
     row = line.split()
 
-    if row[0] == 'xxx':
+    if row[0] == '_':
         continue
 
     data[row[0]] = row[1]

@@ -29,7 +29,7 @@ print """
 (define-abbrev-table 'global-abbrev-table '(
 """
 
-for k, v in abbr.items():
+for k, v in sorted(abbr.items()):
     print """    ("%s" "%s" nil 0)""" % (k, v)
 
 print "    ))"
