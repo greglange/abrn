@@ -1023,8 +1023,8 @@ hrd	heard
 xxx	hearing
 xxx	heart
 xxx	heat
-xxx	heavily
-xxx	heavy
+hvly	heavily
+hvy	heavy
 hgt	height
 xxx	held
 xxx	hell
