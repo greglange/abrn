@@ -108,9 +108,9 @@ ayy	anyway
 ayr	anywhere
 ap	apart
 apm	apartment
-_	apparent
-_	apparently
-_	appeal
+aprt	apparent
+aprty	apparently
+apl	appeal
 apr	appear
 aprc	appearance
 aprd	appeared
@@ -627,7 +627,7 @@ dls	dollars
 _	domestic
 _	dominant
 dt	don't
-_	done
+de	done
 _	door
 dbl	double
 dbld	doubled
