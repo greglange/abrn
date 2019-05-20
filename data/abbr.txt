@@ -445,6 +445,7 @@ _	components
 cnc	concept
 cncs	concepts
 cncl	conceptual
+cncy	conceptually
 _	concern
 _	concerned
 _	concerning
