@@ -2077,7 +2077,9 @@ _	songs
 _	soon
 _	sort
 _	sought
-_	sound
+snd	sound
+sndg  sounding
+snds  sounds
 _	source
 _	sources
 _	south
@@ -2394,6 +2396,7 @@ wah	watch
 wahd	watched
 wahg	watching
 wtr	water
+wtz	waters
 wa	way
 _	ways
 wel	we'll
