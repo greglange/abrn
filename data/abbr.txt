@@ -591,8 +591,8 @@ dfc	difference
 dfcs	differences
 df	different
 dfy	differently
-_	difficult
-_	difficulty
+dff	difficult
+dffy	difficulty
 _	dinner
 dir	direct
 dird	directed
