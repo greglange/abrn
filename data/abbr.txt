@@ -1902,6 +1902,7 @@ _	richard
 _	rifle
 ri	right
 ris	rights
+riy rightly
 _	rise
 _	rising
 _	river
