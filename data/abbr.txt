@@ -591,8 +591,8 @@ dfc	difference
 dfcs	differences
 df	different
 dfy	differently
-_	difficult
-_	difficulty
+dff	difficult
+dffy	difficulty
 _	dinner
 dir	direct
 dird	directed
@@ -2165,6 +2165,7 @@ sbj	subject
 sbjd	subjected
 sbjg	subjecting
 sbjs	subjects
+sbjv	subjective
 _	substantial
 _	success
 _	successful
