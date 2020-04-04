@@ -680,7 +680,7 @@ _	electric
 _	electronic
 _	elements
 el	else
-elr elsewhere
+elr	elsewhere
 _	emotional
 _	emphasis
 _	employees

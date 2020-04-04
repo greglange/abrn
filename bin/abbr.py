@@ -8,6 +8,7 @@ def load(filename):
         if abbr.has_key(a[0]):
             raise Exception("Duplicate abbreviation '%s' found" % (a[0]))
 
-        abbr[a[0]] = a[1]
+        if len(a) == 2:
+            abbr[a[0]] = a[1]
 
     return abbr
