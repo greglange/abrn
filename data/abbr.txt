@@ -1807,6 +1807,7 @@ rds	reads
 rdy	ready
 rl	real
 rlc	realistic
+rlcy	realistically
 rlt	reality
 rlz	realize
 rlzd	realized
