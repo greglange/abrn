@@ -1084,9 +1084,9 @@ _	i'd
 _	i'll
 _	i'm
 _	i've
-_	idea
-_	ideal
-_	ideas
+ia	idea
+ial	ideal
+ias	ideas
 _	if
 _	image
 _	imagination
