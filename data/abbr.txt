@@ -536,6 +536,8 @@ dncg	dancing
 dncr	dancer
 _	danger
 dk	dark
+dks	darkness
+dky	darkly
 _	data
 _	date
 _	daughter
@@ -872,9 +874,9 @@ _	floor
 _	flow
 _	flowers
 flw	follow
-_	followed
+flwd	followed
 flwg	following
-_	follows
+flws	follows
 _	food
 _	foot
 f	for
@@ -985,6 +987,7 @@ _	gross
 _	ground
 _	grounds
 gp	group
+gpd	grouped
 gps	groups
 _	grow
 _	growing
@@ -1096,7 +1099,7 @@ immy	immediately
 _	impact
 impc	importance
 imp	important
-_	impossible
+impb	impossible
 _	improved
 j	in
 _	inch
@@ -1950,7 +1953,8 @@ _	scene
 shl	school
 shls	schools
 sci	science
-_	scientific
+scit	scientist
+scif	scientific
 _	score
 _	sea
 _	search
@@ -2253,6 +2257,7 @@ ts	these
 ty	they
 tyl	they'll
 tyv	they've
+tyd	they'd
 _	thick
 _	thin
 tg	thing
@@ -2260,6 +2265,7 @@ tgs	things
 thk	think
 thkg	thinking
 thkr	thinker
+thkz	thinkers
 thks	thinks
 _	third
 _	thirty
