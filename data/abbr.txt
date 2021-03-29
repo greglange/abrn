@@ -2234,7 +2234,7 @@ _	test
 _	tests
 _	texas
 _	text
-tn	than
+ta	than
 tnk	thank
 tnkd	thanked
 tnkg	thanking
@@ -2248,7 +2248,7 @@ thr	their
 em	them
 ems	themselves
 _	theme
-_	then
+te	then
 _	theory
 tr	there
 _	there's
