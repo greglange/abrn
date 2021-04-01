@@ -1291,6 +1291,8 @@ lcly	locally
 lcls	locals
 _	located
 _	location
+lgc	logic
+lgcy	logically
 _	london
 lg	long
 lgr	longer
