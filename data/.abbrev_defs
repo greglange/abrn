@@ -740,6 +740,8 @@
     ("levs" "levels" nil 0)
     ("lf" "life" nil 0)
     ("lg" "long" nil 0)
+    ("lgc" "logic" nil 0)
+    ("lgcy" "logically" nil 0)
     ("lgg" "longing" nil 0)
     ("lgh" "length" nil 0)
     ("lgr" "longer" nil 0)
