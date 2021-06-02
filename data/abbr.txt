@@ -148,7 +148,7 @@ apc	aspect
 apcs	aspects
 asn	assign
 asnt	assignment
-_	assistance
+astc	assistance
 asc	associate
 ascd	associated
 ascn	association
@@ -476,6 +476,11 @@ cond	continued
 cons	continues
 cong	continuing
 _	contract
+cndt	contradict
+cndts	contradicts
+cndtn	contradiction
+cndtx	contradictions
+cndty	contradictory
 _	contrast
 ctl	control
 ctld	controlled
@@ -1026,9 +1031,9 @@ _	headquarters
 _	health
 _	hear
 hrd	heard
-xxx	hearing
-xxx	heart
-xxx	heat
+_	hearing
+_	heart
+_	heat
 hvly	heavily
 hvy	heavy
 hgt	height
@@ -2328,6 +2333,7 @@ _	truck
 tru	true
 truy	truly
 truh	truth
+truhs	truths
 _	try
 _	trying
 _	tuesday
@@ -2372,7 +2378,7 @@ uur	user
 uuz	users
 uus	uses
 uug	using
-_	usual
+usl	usual
 uuy	usually
 vay	valley
 vlb	valuable
