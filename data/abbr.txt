@@ -79,6 +79,7 @@ alh	although
 alo	altogether
 alz	always
 amg	among
+amph amphetamines
 amt	amount
 amtd	amounted
 amtg	amounting
@@ -2349,6 +2350,7 @@ _	typical
 _	ultimate
 _	uncle
 und	under
+unlikly unlikely
 uns	understand
 unsg	understanding
 unss	understands
