@@ -127,8 +127,10 @@ r	are
 ra	area
 ras	areas
 rt	aren't
-arg	argument
-args	arguments
+arg	argue
+args	argues
+argt	argument
+argts	argument
 ar	around
 arv	arrive
 arvd	arrived
@@ -1242,6 +1244,7 @@ _	leaders
 _	leadership
 _	leading
 _	league
+lrns	learns
 lrn	learn
 lrnd	learned
 lrng	learning
