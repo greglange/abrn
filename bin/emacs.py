@@ -4,7 +4,7 @@ from abbr import load
 
 abbr = load(sys.argv[1])
 
-print """
+print("""
 (define-abbrev-table 'apropos-mode-abbrev-table '(
     ))
 
@@ -27,9 +27,9 @@ print """
     ))
 
 (define-abbrev-table 'global-abbrev-table '(
-"""
+""")
 
 for k, v in sorted(abbr.items()):
-    print """    ("%s" "%s" nil 0)""" % (k, v)
+    print("""    ("%s" "%s" nil 0)""" % (k, v))
 
-print "    ))"
+print("    ))")

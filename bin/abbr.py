@@ -5,7 +5,7 @@ def load(filename):
         if a[0] in ('_', 'xxx'):
             continue
 
-        if abbr.has_key(a[0]):
+        if a[0] in abbr:
             raise Exception("Duplicate abbreviation '%s' found" % (a[0]))
 
         if len(a) == 2:
