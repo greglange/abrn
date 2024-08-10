@@ -130,7 +130,7 @@ rt	aren't
 arg	argue
 args	argues
 argt	argument
-argts	argument
+argts	arguments
 ar	around
 arv	arrive
 arvd	arrived
@@ -183,6 +183,7 @@ aw	away
 bb	baby
 bbs	babies
 bk	back
+bkd	backed
 bkgd	background
 bkg	backing
 bks	backs
@@ -472,6 +473,7 @@ _	contact
 _	contained
 _	contemporary
 cxt	context
+cxtl	contextual
 cxts	contexts
 con	continue
 cond	continued
@@ -537,6 +539,10 @@ cury	currently
 _	cut
 _	cutting
 dly	daily
+dmg	damage
+dmgd	damaged
+dmgg	damaging
+dmgs	damages
 dnc	dance
 dncd	danced
 dncg	dancing
@@ -544,6 +550,7 @@ dncr	dancer
 _	danger
 dk	dark
 dks	darkness
+dkt	darkest
 dky	darkly
 _	data
 _	date
@@ -887,9 +894,10 @@ flws	follows
 _	food
 _	foot
 f	for
-_	force
-_	forced
-_	forces
+frc	force
+frcd	forced
+frcg	forcing
+frcs	forces
 _	foreign
 _	forest
 fv	forever
@@ -1280,6 +1288,7 @@ lw	likewise
 lkg	liking
 lmt	limit
 lmtd	limited
+lmtr	limiter
 lmtg	limiting
 lmts	limits
 ln	line
@@ -1300,6 +1309,7 @@ lcls	locals
 _	located
 _	location
 lgc	logic
+lgcl	logical
 lgcy	logically
 _	london
 lg	long
@@ -1322,8 +1332,11 @@ lo	low
 _	lower
 lu	lunch
 lus	lunches
-_	machine
-_	machinery
+mch	machine
+mchd	machined
+mchg	machining
+mchs	machines
+mchy	machinery
 md	made
 _	main
 _	maintain
@@ -1354,6 +1367,7 @@ _	master
 mtl	material
 mtls	materials
 mtr	matter
+mtrd	mattered
 mtz	matters
 max	maximum
 ma	may
@@ -1424,6 +1438,7 @@ _	morgan
 mor	morning
 mors	mornings
 mo	most
+moy	mostly
 _	mother
 _	motion
 _	motor
@@ -1581,6 +1596,7 @@ oud	outside
 ov	over
 _	own
 pkg	package
+pkgg	packaging
 pkgs	packages
 pg	page
 pgs	pages
@@ -1688,7 +1704,7 @@ posn	position
 posns	positions
 ps	positive
 psy	positively
-_	possibility
+posst	possibility
 poss	possible
 possy	possibly
 _	post
@@ -2331,6 +2347,8 @@ _	trial
 _	tried
 _	trip
 trb	trouble
+trbd	troubled
+trbg	troubling
 trbs	troubles
 _	truck
 tru	true
@@ -2394,11 +2412,17 @@ _	vast
 vy	very
 vcy	victory
 vw	view
+vwd	viewed
+vwg	viewing
+vwr	viewer
+vws	views
+vwz	viewers
 vlg	village
 vsn	vision
 vst	visit
 vtl	vital
 vc	voice
+vcs	voices
 vlm	volume
 _	vote
 _	wage
